@@ -1,0 +1,100 @@
+Sender Name:  Karunarathna K.M.S.H. 
+Sender Email: 2019e055@eng.jfn.ac.lk
+Receiver Name:  Sangeetha 
+Receiver Email: sangeetha@eng.jfn.ac.lk
+Email Date:  Monday, September 26, 2022
+Course Code: EC5080
+Semester: 5
+Lab No: 04
+Lab Name: “Pattern matching with regular expressions”
+
+Sender Name:  Karunasundara P.M.C.L. 
+Sender Email: 2019e059@eng.jfn.ac.lk
+Receiver Name:  Sangeetha 
+Receiver Email: sangeetha@eng.jfn.ac.lk
+Email Date:  Tuesday, October 13, 2022
+Course Code: EC5070
+Semester: 5
+Lab No: 05
+Lab Name: “Input output and error handling”
+
+Sender Name:  Kawsala S.M.Y. 
+Sender Email: 2019e060@eng.jfn.ac.lk
+Receiver Name:  Sangeetha 
+Receiver Email: sangeetha@eng.jfn.ac.lk
+Email Date:  Thursday, September 12, 2022
+Course Code: EC5010
+Semester: 5
+Lab No: 02
+Lab Name: “Data collections”
+
+Sender Name:  Kulathunga P.R. 
+Sender Email: 2019e356@eng.jfn.ac.lk
+Receiver Name:  Ihsan J.M. 
+Receiver Email: ihsan@eng.jfn.ac.lk
+Email Date:  Friday, September 08, 2022
+Course Code: EC5030
+Semester: 5
+Lab No: 03
+Lab Name: “MODELING CONTROL SYSTEMS IN MATLAB SIMULINK”
+
+Sender Name:  Rizwan M. 
+Sender Email: 2019e289@eng.jfn.ac.lk
+Receiver Name:  Ihsan 
+Receiver Email: ihsan@eng.jfn.ac.lk
+Email Date:  Monday, September 17, 2022
+Course Code: EC5060
+Semester: 5
+Lab No: 01
+Lab Name: “Modelling Control Systems in Matlab”
+
+Sender Name:  Deshani D.D. 
+Sender Email: 2019e243@eng.jfn.ac.lk
+Receiver Name:  Sujanthika 
+Receiver Email: sujanthika@eng.jfn.ac.lk
+Email Date:  Wednesday, October 06, 2022
+Course Code: EC5040
+Semester: 5
+Lab No: 02
+Lab Name: “MIPS Programing”
+
+Sender Name:  Perera R.M. 
+Sender Email: 2019e225@eng.jfn.ac.lk
+Receiver Name:  Jeyaruban 
+Receiver Email: jeyaruban@eng.jfn.ac.lk
+Email Date:  Tuesday, September 23, 2022
+Course Code: EC5020
+Semester: 5
+Lab No: 02
+Lab Name: “Amplitude Modulation”
+
+Sender Name:  Fernando D.G.R. 
+Sender Email: 2019e263@eng.jfn.ac.lk
+Receiver Name:  Sangeetha 
+Receiver Email: sangeetha@eng.jfn.ac.lk
+Email Date:  Friday, September 20, 2022
+Course Code: EC5080
+Semester: 5
+Lab No: 01
+Lab Name: “Introduction to Java language features”
+
+Sender Name:  Kaveesha D.M.T. 
+Sender Email: 2019e267@eng.jfn.ac.lk
+Receiver Name:  Mehalathan 
+Receiver Email: mehalathan@eng.jfn.ac.lk
+Email Date:  Monday, October 16, 2022
+Course Code: EC5010
+Semester: 5
+Lab No: 02
+Lab Name: “DIGITAL SIGNAL PROCESSING THEORY AND APPLICATION”
+
+Sender Name:  Karunarathne G.D.T.M. 
+Sender Email: 2019e057@eng.jfn.ac.lk
+Receiver Name:  Dushadi 
+Receiver Email: dushadi@eng.jfn.ac.lk
+Email Date:  Wednesday, October 12, 2022
+Course Code: CE5050
+Semester: 5
+Lab No: 03
+Lab Name: “Column Buckling”
+
